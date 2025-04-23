@@ -6,7 +6,7 @@
 > *"Exploring Spiking Neural Networks to bridge [Computer Vision, e.g., 'event-based vision and energy-efficient AI']."*  
 
 ### **🌱 Current Projects**  
-- **[SNN Research Tracker](https://github.com/yourusername/SNN-Research-Tracker)**: Paper summaries + code experiments.  
+- **[SNN Research Tracker]([https://github.com/yourusername/SNN-Research-Tracker](https://github.com/DoomedWitch/SNN-Research-Tracker.git))**: Paper summaries + code experiments.  
 
 
 ### **📫 Let’s Collaborate!**  
